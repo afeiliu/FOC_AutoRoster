@@ -1,0 +1,16 @@
+D:\My\Solution1\Demo.Data\bin\Debug\Demo.Data.dll.config
+D:\My\Solution1\Demo.Data\bin\Debug\Demo.Data.dll
+D:\My\Solution1\Demo.Data\bin\Debug\Demo.Data.pdb
+D:\My\Solution1\Demo.Data\bin\Debug\Demo.Core.dll
+D:\My\Solution1\Demo.Data\bin\Debug\EntityFramework.dll
+D:\My\Solution1\Demo.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\My\Solution1\Demo.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\My\Solution1\Demo.Data\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\My\Solution1\Demo.Data\bin\Debug\Demo.Core.pdb
+D:\My\Solution1\Demo.Data\bin\Debug\EntityFramework.xml
+D:\My\Solution1\Demo.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\My\Solution1\Demo.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\My\Solution1\Demo.Data\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\My\Solution1\Demo.Data\obj\Debug\Demo.Data.csprojResolveAssemblyReference.cache
+D:\My\Solution1\Demo.Data\obj\Debug\Demo.Data.dll
+D:\My\Solution1\Demo.Data\obj\Debug\Demo.Data.pdb

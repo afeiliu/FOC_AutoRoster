@@ -1,0 +1,15 @@
+D:\My\Solution1\Demo.Services.Tests\bin\Debug\Demo.Services.Tests.dll.config
+D:\My\Solution1\Demo.Services.Tests\bin\Debug\Demo.Services.Tests.dll
+D:\My\Solution1\Demo.Services.Tests\bin\Debug\Demo.Services.Tests.pdb
+D:\My\Solution1\Demo.Services.Tests\bin\Debug\Demo.Core.dll
+D:\My\Solution1\Demo.Services.Tests\bin\Debug\Demo.Services.dll
+D:\My\Solution1\Demo.Services.Tests\bin\Debug\Demo.Data.dll
+D:\My\Solution1\Demo.Services.Tests\bin\Debug\EntityFramework.dll
+D:\My\Solution1\Demo.Services.Tests\bin\Debug\Demo.Core.pdb
+D:\My\Solution1\Demo.Services.Tests\bin\Debug\Demo.Services.pdb
+D:\My\Solution1\Demo.Services.Tests\bin\Debug\Demo.Data.pdb
+D:\My\Solution1\Demo.Services.Tests\bin\Debug\EntityFramework.xml
+D:\My\Solution1\Demo.Services.Tests\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\My\Solution1\Demo.Services.Tests\obj\Debug\Demo.Services.Tests.csprojResolveAssemblyReference.cache
+D:\My\Solution1\Demo.Services.Tests\obj\Debug\Demo.Services.Tests.dll
+D:\My\Solution1\Demo.Services.Tests\obj\Debug\Demo.Services.Tests.pdb

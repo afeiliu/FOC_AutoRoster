@@ -1,0 +1,4 @@
+D:\My\Solution1\Demo.Core\bin\Debug\Demo.Core.dll
+D:\My\Solution1\Demo.Core\bin\Debug\Demo.Core.pdb
+D:\My\Solution1\Demo.Core\obj\Debug\Demo.Core.dll
+D:\My\Solution1\Demo.Core\obj\Debug\Demo.Core.pdb

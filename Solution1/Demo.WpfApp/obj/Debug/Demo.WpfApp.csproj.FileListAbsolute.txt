@@ -1,0 +1,15 @@
+D:\My\Solution1\Demo.WpfApp\bin\Debug\Demo.WpfApp.exe.config
+D:\My\Solution1\Demo.WpfApp\bin\Debug\Demo.WpfApp.exe
+D:\My\Solution1\Demo.WpfApp\bin\Debug\Demo.WpfApp.pdb
+D:\My\Solution1\Demo.WpfApp\obj\Debug\Demo.WpfApp.csprojResolveAssemblyReference.cache
+D:\My\Solution1\Demo.WpfApp\obj\Debug\MainWindow.baml
+D:\My\Solution1\Demo.WpfApp\obj\Debug\MainWindow.g.cs
+D:\My\Solution1\Demo.WpfApp\obj\Debug\App.g.cs
+D:\My\Solution1\Demo.WpfApp\obj\Debug\Demo.WpfApp_MarkupCompile.cache
+D:\My\Solution1\Demo.WpfApp\obj\Debug\Demo.WpfApp.g.resources
+D:\My\Solution1\Demo.WpfApp\obj\Debug\Demo.WpfApp.Properties.Resources.resources
+D:\My\Solution1\Demo.WpfApp\obj\Debug\Demo.WpfApp.csproj.GenerateResource.Cache
+D:\My\Solution1\Demo.WpfApp\obj\Debug\Demo.WpfApp.exe
+D:\My\Solution1\Demo.WpfApp\obj\Debug\Demo.WpfApp.pdb
+D:\My\Solution1\Demo.WpfApp\bin\Debug\Newtonsoft.Json.dll
+D:\My\Solution1\Demo.WpfApp\bin\Debug\Newtonsoft.Json.xml

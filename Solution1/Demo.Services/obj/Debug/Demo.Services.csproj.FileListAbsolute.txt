@@ -1,0 +1,12 @@
+D:\My\Solution1\Demo.Services\bin\Debug\Demo.Services.dll
+D:\My\Solution1\Demo.Services\bin\Debug\Demo.Services.pdb
+D:\My\Solution1\Demo.Services\bin\Debug\Demo.Core.dll
+D:\My\Solution1\Demo.Services\bin\Debug\Demo.Data.dll
+D:\My\Solution1\Demo.Services\bin\Debug\EntityFramework.dll
+D:\My\Solution1\Demo.Services\bin\Debug\Demo.Core.pdb
+D:\My\Solution1\Demo.Services\bin\Debug\Demo.Data.pdb
+D:\My\Solution1\Demo.Services\bin\Debug\EntityFramework.xml
+D:\My\Solution1\Demo.Services\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\My\Solution1\Demo.Services\obj\Debug\Demo.Services.csprojResolveAssemblyReference.cache
+D:\My\Solution1\Demo.Services\obj\Debug\Demo.Services.dll
+D:\My\Solution1\Demo.Services\obj\Debug\Demo.Services.pdb
